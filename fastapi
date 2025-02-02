@@ -1,0 +1,5 @@
+fastapi
+uvcorn
+python-multipart
+opencv-python
+matplotlib
